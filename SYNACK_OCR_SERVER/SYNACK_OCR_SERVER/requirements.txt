@@ -3,7 +3,7 @@ Click==7.0
 colorama==0.4.3
 cycler==0.10.0
 decorator==4.4.1
-Flask==1.1.1
+Flask==2.3.2
 imageio==2.6.1
 imutils==0.5.3
 ipython==8.10.0

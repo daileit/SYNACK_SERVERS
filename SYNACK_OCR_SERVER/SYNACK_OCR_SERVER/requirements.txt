@@ -33,4 +33,4 @@ setuptools==70.0.0
 six==1.13.0
 traitlets==4.3.3
 wcwidth==0.1.7
-Werkzeug==3.0.1
+Werkzeug==3.0.3

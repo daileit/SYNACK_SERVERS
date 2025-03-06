@@ -10,7 +10,7 @@ ipython==8.10.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.15.1
-Jinja2==3.1.5
+Jinja2==3.1.6
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
 matplotlib==3.1.2

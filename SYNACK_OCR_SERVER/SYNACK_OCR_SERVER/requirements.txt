@@ -29,7 +29,7 @@ pytesseract==0.3.0
 python-dateutil==2.8.1
 PyWavelets==1.1.1
 scipy==1.10.0
-setuptools==70.0.0
+setuptools==78.1.1
 six==1.13.0
 traitlets==4.3.3
 wcwidth==0.1.7

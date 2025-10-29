@@ -18,7 +18,7 @@ imageio==2.6.1
 imutils==0.5.3
 itsdangerous==1.1.0
 Jinja2==3.1.6
-Keras==3.9.0
+Keras==3.12.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 keras-vggface==0.6

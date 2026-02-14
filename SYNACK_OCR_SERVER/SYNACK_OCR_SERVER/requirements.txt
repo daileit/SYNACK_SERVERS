@@ -20,7 +20,7 @@ opencv-contrib-python==4.8.1.78
 opencv-python==4.8.1.78
 parso==0.5.1
 pickleshare==0.7.5
-Pillow==10.3.0
+Pillow==12.1.1
 pip==26.0
 prompt-toolkit==3.0.2
 Pygments==2.15.0

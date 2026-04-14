@@ -23,7 +23,7 @@ pickleshare==0.7.5
 Pillow==12.1.1
 pip==26.0
 prompt-toolkit==3.0.2
-Pygments==2.15.0
+Pygments==2.20.0
 pyparsing==2.4.5
 pytesseract==0.3.0
 python-dateutil==2.8.1
